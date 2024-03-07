@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "659736465702",
+    "project_id": "fir-baru-27df6",
+    "storage_bucket": "fir-baru-27df6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659736465702:android:643e62e6a67c725fa371e7",
+        "android_client_info": {
+          "package_name": "com.example.firebasebaru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659736465702-50j6sl0mocftdt34k1q7rdov9cainfq1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasebaru",
+            "certificate_hash": "3f8a5dbeb8078ce7623b48b6fe5eb0569d1e7ce2"
+          }
+        },
+        {
+          "client_id": "659736465702-3qujka43g4cjlabslvnf1j6dkt8h7d2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy3LCssDdAeTgn9scNzowar4U7yTc01xU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659736465702-3qujka43g4cjlabslvnf1j6dkt8h7d2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

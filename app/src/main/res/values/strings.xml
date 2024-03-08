@@ -2,4 +2,8 @@
     <string name="app_name">Firebase Baru</string>
     <string name="login">Login</string>
     <string name="todo">TODO</string>
+    <string name="nim">NIM</string>
+    <string name="masukan_nama">Masukan Nama</string>
+    <string name="jurusan">Jurusan</string>
+    <string name="simpan">Simpan</string>
 </resources>

@@ -6,6 +6,43 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+    <EditText
+        android:id="@+id/nim"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:ems="10"
+        android:hint="@string/nim"
+        android:inputType="number"
+        android:autofillHints=""
+        tools:ignore="VisualLintTextFieldSize" />
+
+    <EditText
+        android:id="@+id/nama"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/masukan_nama"
+        android:inputType="textPersonName"
+        tools:ignore="MissingConstraints,DuplicateClickableBoundsCheck,VisualLintTextFieldSize,VisualLintOverlap"
+        android:autofillHints="" />
+    <EditText
+        android:id="@+id/jurusan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/jurusan"
+        android:inputType="textPersonName"
+        tools:ignore="MissingConstraints,VisualLintTextFieldSize,VisualLintOverlap"
+        android:autofillHints="" />
+
+    <Button
+            android:id="@+id/save"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/simpan"
+            tools:ignore="MissingConstraints,VisualLintButtonSize" />
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
